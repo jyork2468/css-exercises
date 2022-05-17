@@ -4,3 +4,15 @@
     background-color: black;
     color: white;
 }
+ /* The second element */
+
+ .second {
+     background-color: yellow;
+ }
+
+ /* Both elements */
+
+ .both {
+     font-size: 28px;
+     font-family: Helvetica, "Times New Roman", sans-serif;
+ }
