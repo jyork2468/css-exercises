@@ -11,12 +11,6 @@
   color: hsl(0, 100%, 50%);
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
-
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
@@ -25,6 +19,8 @@
 
 #confirm-button {
   background-color: green;
+  color: white;
+  font-weight: bold;
 }
 
 .text {
