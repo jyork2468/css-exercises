@@ -1,14 +1,14 @@
 /* All odd-numbered elements */
 
 .odd {
-    background-color: lightcoral;
+    background-color: #f08080;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 /* The second element (ID) */
 
 #two {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -21,7 +21,7 @@
 /* The fourth element (ID) */
 
 #four {
-    background-color: lightgreen;
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
