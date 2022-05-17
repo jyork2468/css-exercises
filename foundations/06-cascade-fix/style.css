@@ -23,10 +23,15 @@
   font-size: 20px;
 }
 
+#confirm-button {
+  background-color: green;
+}
+
 .text {
   color: green;
   font-size: 22px;
 }
+
 .child {
   color: red;
   font-size: 14px;
