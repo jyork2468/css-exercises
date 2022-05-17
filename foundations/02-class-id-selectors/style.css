@@ -17,3 +17,11 @@
 .cooler {
     font-size: 24px;
 }
+
+/* The fourth element (ID) */
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
