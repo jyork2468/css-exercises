@@ -5,4 +5,10 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+/* The second element (ID) */
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
 
